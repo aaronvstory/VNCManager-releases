@@ -37,8 +37,11 @@ The app checks for a new version at launch and once a day. When one exists, an *
 - **Smooth swipes on WiFi:** open **Phone setup** and choose **Smooth**. In **Settings**, lower **Focus quality · WiFi**. USB is always the smoothest.
 - **Paste:** copy on the computer, then press Ctrl+V (Cmd+V on a Mac) on the phone stream. iOS can ask you to allow the paste. You can set **Allow** for each app in the iPhone's settings.
 - **Other shortcuts:** Ctrl (Cmd on a Mac) plus a key goes to the phone as Command plus that key.
-- **Open in:** the lime button opens the phone in an external viewer such as RealVNC.
-- **Smaller window:** click the panel button next to the version to hide the device list.
+- **Open in:** the lime button opens the phone in an external viewer such as RealVNC. Ctrl+V works there too.
+- **Compact mode:** click **COMPACT** to see only your phones in a thin window. Click it again for the controls.
+- **Always on top:** click **ON TOP**.
+- **Hide the device list:** click the menu button next to the + in the device panel.
+- **Phone banners:** connect banners are off by default. Use the bell in the phone toolbar to turn them on for a phone.
 
 ## Problems
 
